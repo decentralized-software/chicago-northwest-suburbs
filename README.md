@@ -1,4 +1,4 @@
-# Decentralized Software: Chicago
+# Decentralized Software: Chicago NW Suburbs
 
 This is a group where software engineers and designers get together every month or so to talk about blockchain, the decentralized web, web 3.0, DAGs, dApps, Ethereum, etc.
 
