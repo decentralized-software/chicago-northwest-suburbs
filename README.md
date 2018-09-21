@@ -6,9 +6,7 @@ This repo is for our Chicago NW Suburbs chapter.
 
 ## Want to join?
 
-If you or someone you know would like to join, please fill out [this typeform](https://bit.ly/decentralized-software-chicago).
-
-Once you've done that, please **click the watch button on this repo** (star us too!) to get notified of upcoming meeting dates or date and location changes.
+If you or someone you know would like to join, please **click the watch button on this repo** (star us too!) to get notified of upcoming meeting dates or date and location changes.
 
 ## Code of conduct
 
@@ -27,13 +25,10 @@ Submit a pull request, file an issue, or edit the wiki. Or become an organizer o
 
 ## Organizers
 
-- Paul Cowgill ([GitHub](https://github.com/pcowgill) / [Twitter](https://twitter.com/paulcowgill))
-- Rick Carlino ([GitHub](https://github.com/rickcarlino)
+- Rick Carlino ([GitHub](https://github.com/rickcarlino))
 - You?
 
-## Questions you'll hopefully respond to in the Typeform
-
-(The Typeform for this group lives [here!](https://bit.ly/decentralized-software-chicago))
+## Questions
 
 Here are a few quick questions just to get a feel for the crowd - none of these are deal-breakers. If the people who are interested end up falling cleanly into two distinct groups, we might end up creating two versions of this.
 
